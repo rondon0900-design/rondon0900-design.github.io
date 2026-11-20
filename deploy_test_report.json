@@ -1,0 +1,26 @@
+{
+  "tested_at": "2026-11-20 09:23:16",
+  "total_html_pages": 16,
+  "pages_with_sample_items": 0,
+  "pages_with_dummy_href": 0,
+  "pages_with_associate_disclosure": 16,
+  "gaming_chair_html_test": {
+    "exists": true,
+    "no_sample_items": true,
+    "no_dummy_href": true,
+    "has_associate_disclosure": true,
+    "has_amazon_links": true,
+    "has_associate_button_label": true
+  },
+  "all_tests_passed": true,
+  "git_deploy_logs": [
+    "git init: rc=0",
+    "git checkout: rc=0",
+    "git config: rc=0",
+    "git config: rc=0",
+    "git add: rc=0",
+    "git commit: rc=0",
+    "git push: rc=128 (fatal: Cannot prompt because user interactivity has been disabled.\nfatal: unable to get password fro)"
+  ],
+  "remote_repo": "https://github.com/rondon0900-design/rondon0900-design.github.io.git"
+}
