@@ -1,0 +1,14 @@
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,"Hiragino Sans","Yu Gothic",sans-serif;background:#f6f7f9;color:#222;line-height:1.6}
+header{background:#232f3e;padding:12px 16px}.logo{color:#fff;font-weight:700;text-decoration:none}
+main{max-width:860px;margin:0 auto;padding:16px}h1{font-size:1.4rem}.lead{color:#555}
+.pr{font-size:.82rem;color:#444;background:#fff;border:1px solid #ddd;padding:8px 12px;border-radius:6px}
+.rank{list-style:none;padding:0}.rank li{margin:12px 0}.item-card{display:flex;gap:12px;background:#fff;border-radius:10px;padding:14px 16px;color:inherit;box-shadow:0 1px 3px #0001}
+.info{display:flex;flex-direction:column;gap:6px;min-width:0;width:100%}.no{color:#e47911;font-weight:700}.info b{font-size:1rem}
+.price{font-size:1.1rem;font-weight:700;color:#b12704}.meta{font-size:.82rem;color:#666}
+.btn-row{display:flex;gap:10px;flex-wrap:wrap;margin-top:4px}
+.btn{background:#bf0000;color:#fff;padding:6px 16px;border-radius:20px;font-size:.85rem;text-decoration:none;font-weight:700}
+.btn-amz{background:#ff9900;color:#111}
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px}
+.card{background:#fff;padding:16px;border-radius:10px;text-decoration:none;color:inherit;display:flex;flex-direction:column;gap:6px;box-shadow:0 1px 3px #0001}
+.card span{font-size:.85rem;color:#666}.note{font-size:.8rem;color:#777}
+footer{text-align:center;font-size:.8rem;color:#666;padding:24px 16px;border-top:1px solid #e1e4e8;margin-top:24px}

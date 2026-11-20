@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rondon0900-design.github.io/sitemap.xml
