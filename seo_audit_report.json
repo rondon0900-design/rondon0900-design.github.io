@@ -1,6 +1,6 @@
 {
-  "audited_at": "2026-11-20 16:59:04",
-  "total_html_files": 16,
+  "audited_at": "2026-11-20 17:12:14",
+  "total_html_files": 17,
   "missing_canonical_count": 0,
   "missing_ogp_count": 0,
   "missing_itemlist_count": 0,
@@ -63,6 +63,14 @@
       "ogp_ok": true,
       "itemlist_ok": true,
       "itemlist_elements": 14
+    },
+    {
+      "file": "kaikei-soft.html",
+      "title": "副業・確定申告のクラウド会計ソフト3社徹底比較（freee・マネーフォワード・弥生）｜暮らしの人気モノ図鑑",
+      "canonical_ok": true,
+      "ogp_ok": true,
+      "itemlist_ok": true,
+      "itemlist_elements": 3
     },
     {
       "file": "kashitsuki.html",
