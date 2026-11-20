@@ -1,0 +1,140 @@
+{
+  "audited_at": "2026-11-20 16:31:58",
+  "total_html_files": 16,
+  "missing_canonical_count": 0,
+  "missing_ogp_count": 0,
+  "missing_itemlist_count": 0,
+  "duplicate_titles_count": 0,
+  "duplicate_titles": {},
+  "all_passed": true,
+  "pages": [
+    {
+      "file": "about.html",
+      "title": "運営者情報・プライバシーポリシー・免責事項｜暮らしの人気モノ図鑑",
+      "canonical_ok": true,
+      "ogp_ok": true,
+      "itemlist_ok": true,
+      "itemlist_elements": 4
+    },
+    {
+      "file": "bousai-set.html",
+      "title": "防災セット・非常食 人気ランキング｜暮らしの人気モノ図鑑",
+      "canonical_ok": true,
+      "ogp_ok": true,
+      "itemlist_ok": true,
+      "itemlist_elements": 5
+    },
+    {
+      "file": "christmas-gift.html",
+      "title": "クリスマスギフト 人気ランキング｜暮らしの人気モノ図鑑",
+      "canonical_ok": true,
+      "ogp_ok": true,
+      "itemlist_ok": true,
+      "itemlist_elements": 5
+    },
+    {
+      "file": "denki-mofu.html",
+      "title": "電気毛布 人気ランキング｜暮らしの人気モノ図鑑",
+      "canonical_ok": true,
+      "ogp_ok": true,
+      "itemlist_ok": true,
+      "itemlist_elements": 5
+    },
+    {
+      "file": "furusato.html",
+      "title": "ふるさと納税 返礼品 人気ランキング｜暮らしの人気モノ図鑑",
+      "canonical_ok": true,
+      "ogp_ok": true,
+      "itemlist_ok": true,
+      "itemlist_elements": 5
+    },
+    {
+      "file": "gaming-chair.html",
+      "title": "オフィス・ゲーミングチェア 人気ランキング｜暮らしの人気モノ図鑑",
+      "canonical_ok": true,
+      "ogp_ok": true,
+      "itemlist_ok": true,
+      "itemlist_elements": 5
+    },
+    {
+      "file": "index.html",
+      "title": "暮らしの人気モノ図鑑",
+      "canonical_ok": true,
+      "ogp_ok": true,
+      "itemlist_ok": true,
+      "itemlist_elements": 14
+    },
+    {
+      "file": "kashitsuki.html",
+      "title": "加湿器 人気ランキング｜暮らしの人気モノ図鑑",
+      "canonical_ok": true,
+      "ogp_ok": true,
+      "itemlist_ok": true,
+      "itemlist_elements": 5
+    },
+    {
+      "file": "mineral-water.html",
+      "title": "水・ミネラルウォーター 人気ランキング｜暮らしの人気モノ図鑑",
+      "canonical_ok": true,
+      "ogp_ok": true,
+      "itemlist_ok": true,
+      "itemlist_elements": 5
+    },
+    {
+      "file": "mobile-battery.html",
+      "title": "モバイルバッテリー 人気ランキング｜暮らしの人気モノ図鑑",
+      "canonical_ok": true,
+      "ogp_ok": true,
+      "itemlist_ok": true,
+      "itemlist_elements": 5
+    },
+    {
+      "file": "osechi-gourmet.html",
+      "title": "お取り寄せグルメ・カニ・海鮮 人気ランキング｜暮らしの人気モノ図鑑",
+      "canonical_ok": true,
+      "ogp_ok": true,
+      "itemlist_ok": true,
+      "itemlist_elements": 5
+    },
+    {
+      "file": "pillow.html",
+      "title": "枕 人気ランキング｜暮らしの人気モノ図鑑",
+      "canonical_ok": true,
+      "ogp_ok": true,
+      "itemlist_ok": true,
+      "itemlist_elements": 5
+    },
+    {
+      "file": "protein.html",
+      "title": "プロテイン 人気ランキング｜暮らしの人気モノ図鑑",
+      "canonical_ok": true,
+      "ogp_ok": true,
+      "itemlist_ok": true,
+      "itemlist_elements": 5
+    },
+    {
+      "file": "robot-cleaner.html",
+      "title": "ロボット掃除機・時短家電 人気ランキング｜暮らしの人気モノ図鑑",
+      "canonical_ok": true,
+      "ogp_ok": true,
+      "itemlist_ok": true,
+      "itemlist_elements": 5
+    },
+    {
+      "file": "suitopo.html",
+      "title": "水筒・タンブラー 人気ランキング｜暮らしの人気モノ図鑑",
+      "canonical_ok": true,
+      "ogp_ok": true,
+      "itemlist_ok": true,
+      "itemlist_elements": 5
+    },
+    {
+      "file": "toilet-paper.html",
+      "title": "トイレットペーパー 人気ランキング｜暮らしの人気モノ図鑑",
+      "canonical_ok": true,
+      "ogp_ok": true,
+      "itemlist_ok": true,
+      "itemlist_elements": 5
+    }
+  ]
+}
