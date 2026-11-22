@@ -1,11 +1,16 @@
 {
-  "audited_at": "2026-11-21 12:07:36",
+  "audited_at": "2026-11-22 18:59:43",
   "total_html_files": 17,
   "missing_canonical_count": 0,
   "missing_ogp_count": 0,
   "missing_itemlist_count": 0,
   "duplicate_titles_count": 0,
   "duplicate_titles": {},
+  "sitemap": {
+    "sitemap_urls_count": 17,
+    "robots_txt_exists": true,
+    "sitemap_url": "https://rondon0900-design.github.io/sitemap.xml"
+  },
   "all_passed": true,
   "pages": [
     {

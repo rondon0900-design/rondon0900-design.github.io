@@ -1,12 +1,15 @@
 {
-  "executed_at": "2026-11-21 04:57:52",
+  "executed_at": "2026-11-21 12:09:57",
   "target_repo": "https://github.com/rondon0900-design/rondon0900-design.github.io.git",
   "target_site_url": "https://rondon0900-design.github.io/",
   "total_html_pages": 17,
   "seo_audit_passed": true,
   "sitemap_and_robots": {
     "sitemap_urls_count": 17,
-    "robots_txt_exists": true
+    "robots_txt_exists": true,
+    "sitemap_url": "https://rondon0900-design.github.io/sitemap.xml",
+    "search_console_sitemaps_url": "https://search.google.com/search-console/sitemaps?resource_id=https%3A//rondon0900-design.github.io/",
+    "search_engine_notification": "indexnow_http_202"
   },
   "link_and_sponsored_audit": {
     "broken_internal_links_count": 0,
